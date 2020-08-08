@@ -62,7 +62,7 @@ yarn dev
 # testando atendimento aos requisitos
 yarn test
 ```
-Você pode utilizar ferramentos como o Insomnia, o Postman e o Postwoman para testar as rotas e requisições configuradas.
+Você pode utilizar ferramentas como o Insomnia, o Postman e o Postwoman para testar as rotas e requisições configuradas.
 
 ### :wrench: Tecnologias | Ferramentas | Recursos
 
